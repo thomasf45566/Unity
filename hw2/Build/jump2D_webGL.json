@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "jump2D_webGL.data.unityweb",
+"asmCodeUrl": "jump2D_webGL.asm.code.unityweb",
+"asmMemoryUrl": "jump2D_webGL.asm.memory.unityweb",
+"asmFrameworkUrl": "jump2D_webGL.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#222C36"
+}
