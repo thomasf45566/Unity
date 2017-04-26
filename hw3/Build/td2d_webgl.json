@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "td2d_webgl.data.unityweb",
+"asmCodeUrl": "td2d_webgl.asm.code.unityweb",
+"asmMemoryUrl": "td2d_webgl.asm.memory.unityweb",
+"asmFrameworkUrl": "td2d_webgl.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#222C36"
+}
